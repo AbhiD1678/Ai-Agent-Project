@@ -27,8 +27,8 @@ Follow these steps to set up and run the application:
 ### Step 1: Clone the Repository
 Clone this repository to your local machine using:
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+[git clone <repository-url>](https://github.com/AbhiD1678/Ai-Agent-Project.git)
+cd Ai-Agent-Project
 ```
 
 ### Step 2: Install Dependencies
